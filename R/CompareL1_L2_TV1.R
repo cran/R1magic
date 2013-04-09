@@ -1,5 +1,5 @@
-CompareL1_L2_TV1 <-
-function(N,M,per) {
+CompareL1_L2_TV1 <- function(N,M,per) {
+  # Part of R1Magic by mehmet.suzen@physics.org
   phi <- matrix( rnorm(N * M ),  M,N )
   xorg <-  sparseSignal(N, per*N)
   y <- phi %*% xorg

@@ -6,14 +6,14 @@
   Compressive Sampling: Sparse signal recovery utilities
 }
 \description{
-  Provides miminization routines and related utilities for compressive sampling. l-1, l-2 and TV (1-D) minimization, DFT basis matrix, sparse signal generator and examples.
+  Provides miminization routines and related utilities for compressive sampling. l-1, l-2 and TV (1-D) minimization, DFT basis matrix, sparse signal generator, mutual cumulative coherence and examples.
 }
 \details{
 \tabular{ll}{
 Package: \tab R1magic\cr
 Type: \tab Package\cr
-Version: \tab 0.1 \cr
-Date: \tab 2011-06-12\cr
+Version: \tab 0.2 \cr
+Date: \tab 2013-04-09\cr
 License: \tab GPL (>= 3) \cr
 LazyLoad: \tab yes\cr
 }
