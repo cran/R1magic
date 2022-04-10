@@ -1,8 +1,8 @@
 Package: R1magic
 Type: Package
 Title: Compressive Sampling: Sparse Signal Recovery Utilities
-Version: 0.3.2
-Date: 2015-04-19
+Version: 0.3.3
+Date: 2022-04-20
 Authors@R: c(
     person("Mehmet", "Suzen",
     email = "mehmet.suzen@physics.org", role = c("aut", "cre")))
@@ -12,7 +12,7 @@ Description: Utilities for sparse signal recovery suitable for compressed sensin
 License: GPL (>= 3)
 LazyLoad: yes
 NeedsCompilation: no
-Packaged: 2015-04-19 19:54:15 UTC; msuzen
+Packaged: 2022-04-10 09:22:20 UTC; msuzen
 Author: Mehmet Suzen [aut, cre]
 Repository: CRAN
-Date/Publication: 2015-04-19 22:18:58
+Date/Publication: 2022-04-10 09:42:32 UTC
